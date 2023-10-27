@@ -1,0 +1,195 @@
+id,store,address,latitude,longitude,store_type,product_category,city_region
+MER_1,Excessorize,"1826 Park Ave, Richmond, VA 23220",37.5539325,-77.4624215,Clothing,Apparel,Fashion District
+MER_2,Rotate,"913 W Grace St D, Richmond, VA 23220",37.5501783,-77.4524108,Clothing,Apparel,Fashion District
+MER_3,Virginia Book Company,"900 W Franklin St, Richmond, VA 23284",37.5494422,-77.4522308,Book Store,Literature,Fashion District
+MER_4,Saturn Return,"713 W Broad St # 100, Richmond, VA 23220",37.5494826,-77.4487504,Clothing,Apparel,Fashion District
+MER_5,Plaza Artist Materials,"927 W Grace St, Richmond, VA 23220",37.5503044,-77.4529756,Art Supply Store,Art & Art Supplies,Fashion District
+MER_6,The Lombardy Market,"N Lombardy St, Richmond, VA 23220",37.557364,-77.453152,Convience Store,Variety,Fashion District
+MER_7,Eastern Express,"937 W Grace St, Richmond, VA 23220",37.550705,-77.4531329,Convience Store,Variety,Fashion District
+MER_8,Richmond Book Shop,"808 W Broad St, Richmond, VA 23220",37.5500449,-77.4487246,Book Store,Literature,Fashion District
+MER_9,Book Holders,"720 W Grace St, Richmond, VA 23220",37.5491057,-77.4493562,Book Store,Literature,Fashion District
+MER_10,Student Corner,"937 W Grace St, Richmond, VA 23220",37.550705,-77.4531329,Book Store,Literature,Fashion District
+MER_11,Family Dollar,"1903 W Main St, Richmond, VA 23220",37.5484149,-77.4650433,Dollar Store,Variety,Fashion District
+MER_12,The Clothes Rack,"2618 W Cary St, Richmond, VA 23220",37.5513301,-77.4746338,Clothing,Apparel,Fashion District
+MER_13,Boketto Wellness,"106 N Vine St floor 1, Richmond, VA 23220",37.5495836,-77.4615358,Health and Beauty,Cosmetics,Fashion District
+MER_14,Boho To Go,"1520 W Main St, Richmond, VA 23220",37.5476874,-77.4605615,Home Goods Store,Home Goods,Fashion District
+MER_15,Need Supply Co.,"3100 W Cary St, Richmond, VA 23221",37.5532123,-77.4801035,Clothing,Apparel,Fashion District
+MER_16,Market 810-2-Go,"810 Cathedral Pl, Richmond, VA 23284",37.548067,-77.4522099,Convience Store,Variety,Fashion District
+MER_17,Dollar Tree,"1510 W Broad St, Richmond, VA 23220",37.5543836,-77.455633,Dollar Store,Variety,Fashion District
+MER_18,Bridget Berai Home Store,"1528 W Cary St, Richmond, VA 23220",37.5465117,-77.4612947,Home Goods Store,Home Goods,Fashion District
+MER_19,Uppys,"2206 W Main St, Richmond, VA 23220",37.5505323,-77.4687339,Convience Store,Variety,Fashion District
+MER_20,Chop Suey Books,"2913 W Cary St, Richmond, VA 23221",37.5520964,-77.4783019,Book Store,Literature,Fashion District
+MER_21,Mod & Sol,"323 W Broad St, Richmond, VA 23220",37.5473728,-77.4455349,Clothing,Apparel,Fashion District
+MER_22,Bygones Vintage Clothing,"2916 W Cary St, Richmond, VA 23221",37.5524497,-77.4780956,Clothing,Apparel,Fashion District
+MER_23,White Cap,"2405 Hermitage Road, Richmond VA 23220",37.5648723,-77.4599339,Hardware,Hardware,Fashion District
+MER_24,Architectural Hardware Inc.,"2405 Ownby Lane, Richmond VA 23220",37.5639912,-77.4563036,Hardware,Hardware,Fashion District
+MER_25,VCU E 2 Bookstore,"1111 E Main St, Richmond VA 23219",37.5365772,-77.4350118,Art Supply Store,Art & Art Supplies,Fashion District
+MER_26,Stuff,"2910 W Moore St, Richmond VA 23230",37.567152,-77.468757,"Jewelry, Art Galleries and Gift Shops",Jewelry,Fashion District
+MER_27,Black Swan Books,"3310-C Rosedale Ave, Richmond VA 23230",37.5773305,-77.470242,Book Store,Literature,Fashion District
+MER_28,Music & Arts,"4701 W Broad St, Richmond VA 23230",37.5790547,-77.4908611,Music Store,School Supplies,Fashion District
+MER_29,The Virginia Shop,"800 E Broad St, Richmond VA 23219",37.5416525,-77.4338014,Boutique,Boutique & Gift Shop,Fashion District
+MER_30,Alpha Comics and Games,"1601 Willow Lawn Dr 300 B, Richmond VA 23230",37.582542,-77.49744,Toy Store,Toy and Games,Fashion District
+MER_31,Ina,"300 N Robinson St, Richmond VA 23220",37.555702,-77.4712476,Children's Toy and Clothing Store,"Toys, Clothing and Home Decor",Fashion District
+MER_32,RVA Natural,"2501 Monument Ave St. 213, Richmond, VA 23220",37.5582434,-77.4682793,Toy Store,Toys and Games,Fashion District
+MER_33,Monument,"823 W Broad St, Richmond, VA 23220",37.550025,-77.450037,Mens Clothing and Boutique Shop,Apparel,Fashion District
+MER_34,Rumors Boutique,"723 W Broad St, Richmond, VA 23220",37.5495545,-77.4490425,Thrift Store,Apparel,Fashion District
+MER_35,Rosewood Clothing,"407 Cleveland St, Richmond, VA 23221",37.5594453,-77.4778827,Clothing,Apparel,Fashion District
+MER_36,DAT Boutique,"904 W Broad St, Richmond, VA 23220",37.550507,-77.4495243,Women's Clothing,Apparel,Fashion District
+MER_37,Jackson & James,"3200 Rockridge St Ste 102, Richmond, VA 23230",37.570595,-77.4695567,Mens Clothing and Boutique Shop,Apparel,Fashion District
+MER_38,Shockoe Atelier,"13A S 15th St, Richmond, VA 23219",37.5340462,-77.4307697,Men's Clothing,Apparel,Fashion District
+MER_39,Computer Cave,"11 S 15th St, Richmond, VA 23219",37.5340774,-77.4306409,Electronics,Electronics,Fashion District
+MER_40,Joelles Essentials,"102 N 7th St, Richmond, VA 23219",37.5403455,-77.4372968,Beauty and Cosmetics,Beauty Supply Store,Fashion District
+MER_41,Deep Groove,"317 N Robinson St, Richmond, VA 23220",37.5559327,-77.4708358,Music Store,Electronics and Music,Fashion District
+MER_42,Shelley's Gift Shop,"1313 Broad St, Richmond, VA 23223",37.5381963,-77.4304514,Gift Shop,Gift Shop,Fashion District
+MER_43,Little Nomads,"104 W Broad St, Richmond, VA 23220",37.5464939,-77.4428902,Children's Toy and Clothing Store,Children's Products,Fashion District
+MER_44,Sassy Jones,"316 E Grace St, Richmond, VA 23219",37.5429701,-77.4392817,Women's Jewelry & Accessories,Boutique,Fashion District
+MER_45,Chilalay,"212 W Broad St, Richmond, VA 23220",37.5472601,-77.4438204,Clothing,Apparel,Fashion District
+MER_46,The Spot,"7 W Broad St, Richmond, VA 23220",37.5455989,-77.4424756,Clothing,Apparel,Fashion District
+MER_47,Maven Made,"1321 E Main St, Richmond Ste 113, Richmond, VA 23219",37.5355492,-77.4323861,Beauty and Cosmetics,Beauty Supply Store,Fashion District
+MER_48,Rosewood,"16 W Broad St, Richmond, VA 23220",37.5462135,-77.4422231,Clothing,Apparel,Jackson Ward
+MER_49,Chilalay,"212 W Broad St, Richmond, VA 23220",37.5472601,-77.4438204,Clothing,Apparel,Jackson Ward
+MER_50,Blue Bones Vintage,"322 W Broad St unit b, Richmond, VA 23220",37.5478713,-77.4451673,Clothing,Apparel,Jackson Ward
+MER_51,Pop City,"106 W Broad St, Richmond, VA 23220",37.5465193,-77.4429351,Clothing,Apparel,Jackson Ward
+MER_52,The Someday Shop,"106 W Broad St, Richmond, VA 23220",37.5465193,-77.4429351,Home Goods Store,Home Goods,Jackson Ward
+MER_53,Brown Sugar Naturals,"106 W Broad St, Richmond, VA 23220",37.5465193,-77.4429351,Beauty Store,Cosmetics,Jackson Ward
+MER_54,Rite Aid,"520 W Broad St, Richmond, VA 23220",37.548928,-77.4467307,Pharmacy Store,Variety,Jackson Ward
+MER_55,CobbleStore,"106 W Broad St, Richmond, VA 23220",37.5465193,-77.4429351,Clothing,Apparel,Jackson Ward
+MER_56,Never Enough Books,"318 W Broad St, Richmond, VA 23220",37.547742,-77.4450659,Book Store,Literature,Jackson Ward
+MER_57,68 Home,"5 W Broad St, Richmond, VA 23220",37.5455072,-77.442386,Home Goods Store,Home Goods,Jackson Ward
+MER_58,Broadway Marketplace,"312 E Broad St, Richmond, VA 23219",37.544007,-77.4385108,Convience Store,Variety,Jackson Ward
+MER_59,Aubergine Depot,"319 Brook Rd, Richmond, VA 23220",37.546981,-77.442494,Boutique,Variety,Jackson Ward
+MER_60,Rite Aid,"520 W Broad St, Richmond, VA 23220",37.548928,-77.4467307,Pharmacy Store,Variety,Jackson Ward
+MER_61,Circle Thrift & Art Space,"400 W Broad St, Richmond, VA 23220",37.5480274,-77.4453332,Thrift Store,Thrift & Art Supplies,Jackson Ward
+MER_62,Rest in Pieces,"349 S Laurel St, Richmond, VA 23220",37.540622,-77.4514611,Boutique,Antiques & Gift Shops,Jackson Ward
+MER_63,Mod & Soul,"323 W Broad St, Richmond, VA 23220",37.5473728,-77.4455349,Womens Clothing,Apparel,Jackson Ward
+MER_64,Verdalina,"325 W Broad St, Richmond, VA 23220",37.5474372,-77.4456118,Womens Clothing,Apparel,Jackson Ward
+MER_65,Redd Rags,"101 W Broad St Ste 6, Richmond, VA 23220",37.5460088,-77.4432376,Boutique,Jewelry & Accessories,Jackson Ward
+MER_66,Renmark Design Shop,"1321 E Main St, Richmond, VA 23219",37.5355492,-77.4323861,Boutique,Home Goods,Jackson Ward
+MER_67,Shakoor's Merchandise,"319 N. 2nd St, Richmond, VA 23219",37.5451594,-77.4394543,Ethnic Clothing,Apparel,Jackson Ward
+MER_68,Utmost Co,"115 W Broad St, Richmond, VA 23220",37.5462974,-77.4435031,Clothing and Fashion,Apparel,Jackson Ward
+MER_69,Barky's Record Shop,"18 E Broad St, Richmond, VA 23219",37.5455524,-77.4411469,Music Store,Music,Jackson Ward
+MER_70,Waller & Co. Jewelers,"19 E. Broad St, Richmond, VA 23219",37.5449714,-77.4415004,Jewelry,Jewelry & Accessories,Jackson Ward
+MER_71,whilom,"1 N 2nd St, Richmond, VA 23219",37.5421208,-77.4423263,Home Goods Store,Home Goods,Jackson Ward
+MER_72,Ledbury's,"315 W Broad St, Richmond, VA 23220",37.5472718,-77.4453186,Men's Clothing,Apparel,Jackson Ward
+MER_73,Serendipity,"102 W Broad St, Richmond, VA 23220",37.5464505,-77.4428678,Womens Clothing,Apparel,Jackson Ward
+MER_74,Tiny Space,"2708 E Marshall St  # 7346, Richmond, VA 23223",37.5312355,-77.4156912,Home Goods Store,Home Goods,Church Hill
+MER_75,Church Hill Express,"2405 E Franklin St, Richmond, VA 23223",37.530145,-77.421056,Convience Store,Variety,Church Hill
+MER_76,Mo Convience Store,"2905 Nine Mile Rd, Richmond, VA 23223",37.5412074,-77.4034479,Convience Store,Variety,Church Hill
+MER_77,Fine Food Market,"700 Idlewood Ave, Richmond, VA 23220",37.5420366,-77.4507009,Convience Store,Variety,Church Hill
+MER_78,SR_1,"907 Floyd Ave, Richmond, VA 23284",37.546508,-77.45346,Convience Store,Variety,Church Hill
+MER_79,Pleasants Hardware,"4756 Finaly St, Richmond VA 23231",37.5195128,-77.3529457,Hardware,Hardware,Church Hill
+MER_80,Bayln Antenna,"4248 Oakley Ct, Richmond VA 23223",37.5364981,-77.3510272,Hardware,Hardware,Church Hill
+MER_81,Adiva Naturals,"1802 E Franklin St, Richmond VA 23223",37.5337583,-77.4264368,Beauty Store,Beauty & Cosmetics,Church Hill
+MER_82,Que Tee Print Shop,"1003 Masonic Ln Ste A, Richmond VA 23223",37.531275,-77.3748805,Clothing,Apparel,Church Hill
+MER_83,Third Eye Comics,"11575 W Broad St, Richmond VA 23233",37.6515308,-77.615362,Toy and Comic Store,Toys and Comics,Church Hill
+MER_84,"Linger Rose, LLC","2709 E Marshall St, Richmond VA 23223",37.531118,-77.4159156,Womens Clothing,Apparel,Church Hill
+MER_85,Work Duds,"5215 S Laburnum Ave, Richmond VA 23231",37.5151773,-77.3490651,Clothes and Shoe Store,Footwear,Church Hill
+MER_86,Dear Neighbor,"2415 Jefferson Ave, Richmond VA 23223",37.5349308,-77.4162157,Jewelry & Accessories,Jewelry & Accessories,Church Hill
+MER_87,Afrikongo,"3302 Williamsburg Rd, Richmond VA 23231",37.5212528,-77.3663583,Clothing,Apparel,Church Hill
+MER_88,Walgreens,"2924 Chamberlayne Ave, Richmond, VA 23222",37.571723,-77.4459047,Pharmacy,Variety,North Side
+MER_89,Dollar General,"2910 North Ave, Richmond, VA 23222",37.5704484,-77.4331366,Dollar Store,Variety,North Side
+MER_90,CVS,"1205 Bellevue Ave, Richmond, VA 23227",37.5907727,-77.4527627,Pharmacy,Variety,North Side
+MER_91,JuJuBee's,"1205 Bellevue Ave, Richmond, VA 23227",37.5907727,-77.4527627,Home Goods Store,Home Goods,North Side
+MER_92,Fine and Feather Pet Center,"5208 Lakeside Ave, Richmond, VA 23228",37.6012847,-77.4674847,Pet Store,Pet Products,North Side
+MER_93,Habitat for Humanity ReStore,"1901 Roane St, Richmond, VA 23222",37.5606353,-77.4403463,Thrift Store,"Hardware, Clothing Home Decor",North Side
+MER_94,Collector's Heaven,"6112 Lakeside Ave, Richmond VA 23228",37.6148877,-77.4706876,Toy Store & Hobby Shop,Toys and Comics,North Side
+MER_95,Whispers of Time,"5512 Lakeside Ave, Richmond VA 23228",37.6045479,-77.467934,Boutique,Home Decor and Boutique,North Side
+MER_96,Rawsugah Clothing,"2532 N Lombardy St, Richmond VA 23220",37.5666682,-77.4449074,Womens Clothing,Apparel,North Side
+MER_97,Peter Blaire Accessories,"2114 Dabney Rd Ste C, Richmond VA 23230",37.5801712,-77.4822407,Mens Clothing,Apparel & Accessories,North Side
+MER_98,Franco's Fine Clothier,"5321 Lakeside Ave, Richmond VA 23228",37.6021223,-77.4667179,Mens Clothing,Apparel,North Side
+MER_99,Red Wing Shoe Store,"8191 Brook Rd Ste D, Richmond VA 23227",37.6348198,-77.458281,Shoe Store,Footwear,North Side
+MER_100,Element Beauty Shop,"3422 W Cary St, Richmond, VA 23221",37.5552197,-77.4859599,Beauty Store,Cosmetics,Carytown
+MER_101,The Carytown Collective,"3422 W Cary St, Richmond, VA 23221",37.5552197,-77.4859599,Home Goods Store,Home Goods,Carytown
+MER_102,AlterNatives Boutique,"3320 W Cary St, Richmond, VA 23221",37.5547253,-77.484694,Boutique,Jewelry,Carytown
+MER_103,Roan,"3142 W Cary St, Richmond, VA 23221",37.5538716,-77.4815946,Clothing,Apparel,Carytown
+MER_104,Element Beauty Shop,"3101 W Cary St, Richmond, VA 23221",37.5529341,-77.4805557,Clothing,Apparel,Carytown
+MER_105,Creme de le Creme,"3156 W Cary St, Richmond, VA 23221",37.5539909,-77.4820502,Home Goods Store,Home Goods,Carytown
+MER_106,Luxor Vintage Clothing,"3001 W Cary St, Richmond, VA 23221",37.5523153,-77.479057,Clothing,Apparel,Carytown
+MER_107,Buffalo Exchange,"3140 W Cary St B, Richmond, VA 23221",37.5539904,-77.4813335,Clothing,Apparel,Carytown
+MER_108,Trove,"115 Freeman Rd, Richmond, VA 23221",37.5540906,-77.4847948,Antique Store,Jewelry,Carytown
+MER_109,Brick and Mortar,"3011 W Cary St, Richmond, VA 23221",37.5524817,-77.4793545,Clothing,Apparel,Carytown
+MER_110,Zest Clothing and Co,"3140A W Cary St, Richmond, VA 23221",37.5539904,-77.4813335,Clothing,Apparel,Carytown
+MER_111,Exit 94 Unlimited,"3224 W Cary St, Richmond, VA 23221",37.5543854,-77.4834022,Clothing,Apparel,Carytown
+MER_112,Walgreens,"3520 Ellwood Ave, Richmond, VA 23221",37.5572113,-77.4876801,Pharmacy,Variety,Carytown
+MER_113,Mamie's Apothecary,"3020 W Cary St, Richmond, VA 23221",37.5529202,-77.4794598,Health and Beauty,Cosmetics,Carytown
+MER_114,bbgb,"3003 W Cary St, Richmond, VA 23221",37.5523349,-77.4791263,Book Store,Literature,Carytown
+MER_115,Chop Suey Books,"2913 W Cary St, Richmond, VA 23221",37.5520964,-77.4783019,Book Store,Literature,Carytown
+MER_116,Custom Ink,"3401 W Cary St, Richmond, VA 23221",37.5544528,-77.4848284,Clothing,Apparel,Carytown
+MER_117,Petco,"10 N Nansemond St  # c, Richmond, VA 23221",37.5570376,-77.4860096,Pet Store,Pet Products,Carytown
+MER_118,Family Dollar,"1903 W Main St, Richmond, VA 23220",37.5484149,-77.4650433,Dollar Store,Variety,Carytown
+MER_119,Mongrel,"2924 W Cary St, Richmond, VA 23221",37.5524092,-77.4782772,Gift Shop,Boutique,Carytown
+MER_120,Plan 9,"3017 W Cary St, Richmond, VA 23221",37.5525341,-77.4795709,Music Store,"Music, Viynl Records",Carytown
+MER_121,Bangles and Beades,"3322 W Cary St, Richmond, VA 23221",37.5548597,-77.4847052,Antique Store,Accessories,Carytown
+MER_122,Premier Costumes,"3339 W Cary St, Richmond, VA 23221",37.5542637,-77.4844027,Clothing and Costume Store,Apparel,Carytown
+MER_123,Quirk Gallery,"207 W Broad St, Richmond, VA 23220",37.5441654,-77.4401888,Boutique,Boutique,Carytown
+MER_124,Merry Maker,"3022 W Cary St, Richmond, VA 23221",37.5530182,-77.4795744,Boutique,Cards & Boutique,Carytown
+MER_125,World of Mirth,"3005 W Cary St, Richmond, VA 23221",37.5523286,-77.4792031,Toy Store,Toys,Carytown
+MER_126,One Eye Jacques,"3104 W Cary St, Richmond, Va 23221",37.5532495,-77.4802017,Toy Store and Hobby Shop,Toys and Games,Carytown
+MER_127,Carytown Dolls and Bears,"3457 W Cary St, Richmond, VA 23221",37.5548745,-77.4862735,Toy Store,Toys and Games,Carytown
+MER_128,Fountain Bookstore,"1312 E Cary St, Richmond, VA 23219",37.5352134,-77.4332538,Book Store,Books,Carytown
+MER_129,The Someday Shop,"22 E Broad St, Richmond, VA 23219",37.5453582,-77.4411147,Home Decor Store,Home Goods,Carytown
+MER_130,Fabrik,"3004A W Cary St, Richmond, VA 23221",37.5528051,-77.4789948,Women's Clothing Store,Apparel,Carytown
+MER_131,Philosophie,"3132 W Cary St, Richmond, VA 23221",37.5537421,-77.4812169,Women's Clothing Store,Apparel,Carytown
+MER_132,Bonnie's Boutique,"3009 W Cary St, Richmond, VA 23221",37.5524612,-77.4793108,Women's Clothing Store,Apparel,Carytown
+MER_133,Jezebel's of Carytown,"3455 W Cary St, Richmond, VA 23221",37.554905,-77.4862735,Women's Clothing Store,Apparel,Carytown
+MER_134,Traveling Chic Boutique,"3143 W Cary St, Richmond, VA 23221",37.5534213,-77.4819942,Women's Clothing Store,Apparel,Carytown
+MER_135,Blue Butterfly Boutique,"3141 W Cary St, Richmond, VA 23221",37.5534515,-77.481895,Women's Clothing Store,Apparel,Carytown
+MER_136,The Clothes Rack,"2618 W Cary St, Richmond, VA 23220",37.5513301,-77.4746338,Women's Clothing Store and Thrift Store,Apparel,Carytown
+MER_137,Blackbyrd Goods,"3439 W Cary St, Richmond, VA 23221",37.5547339,-77.4858254,Men's Clothing & Accessories,Apparel,Carytown
+MER_138,Na Nin,"101 S Addison St, Richmond, VA 23220",37.5489485,-77.470298,Women's Clothing & Accessories,Apparel,Carytown
+MER_139,Glassboat,"3226 W Cary St, Richmond, VA 23221",37.5544401,-77.4833721,Women's Clothing & Boutique,Apparel,Carytown
+MER_140,Mitchem Shoe Repair & Alterations Shop,"3135 W Cary St, Richmond, VA 23221",37.5533515,-77.4817253,Sho Repair Shop,Footwear,Carytown
+MER_141,Lou Lou,"3158A W Cary St, Richmond, VA 23221",37.5538365,-77.4821398,Jewelry & Accessories,Jewelry & Accessories,Carytown
+MER_142,Beasties,"3218 W Cary St, Richmond, VA 23221",37.5542196,-77.483361,Gift Shop & Accessories,Gift Shop,Carytown
+MER_143,Clover,"3024 W Cary St, Richmond, VA 23221",37.5530292,-77.4796173,Children's Clothing,Baby Products,Carytown
+MER_144,Richmond Road Runner,"3002 W Cary St, Richmond, VA 23221",37.5528733,-77.4788515,Running Store,Footwear,Carytown
+MER_145,Ten Thousand Villages,"3201 W Cary St, Richmond, VA 23221",37.5535669,-77.4824363,Boutique & Accessory Store,Accessories,Carytown
+MER_146,Kanapa (Carytown Tabacco),"2927 W Cary St, Richmond, VA 23221",37.5522066,-77.4785555,Smoke Shop,"Vaping, CBD, Weed",Carytown
+MER_147,Spectrum Paint True Value,"4307 W Broad St, Richmond VA 23230",37.5756685,-77.4868224,Hardware,Hardware,West End
+MER_148,Pleasants Hardware,"5815 Patterson Ave, Richmond VA 23226",37.5797471,-77.5155927,Hardware,Hardware,West End
+MER_149,Jermies Needlepoint & Linens,"5706 Patterson Ave, Richmond VA 23226",37.5788595,-77.5130661,Linen Store,Art & Art Supplies,West End
+MER_150,Joann Fabrics & Crafts,"7504 W Broad St, Richmond VA 23294",37.6185576,-77.522395,Home Decor & Art Supply Store,Art & Art Supplies,West End
+MER_151,Paper on the Avenue,"5807 Patterson Ave Ste 2, Richmond, VA 23226",37.5794474,-77.5151365,Boutique,Boutique,West End
+MER_152,Apothec,"318 Libbie Ave, Richmond, VA 23226",37.5741367,-77.5182417,Herbal Shop,Cosmetics,West End
+MER_153,Paper Plus,"5804 Grove Ave, Richmond, VA 23226",37.5732708,-77.518565,Boutique,Antique & Gift Shops,West End
+MER_154,Paper Source,"3124 W Cary St, Richmond, VA 23221",37.5536773,-77.4809472,Art & Party Supply Store,Art & Art Supplies,West End
+MER_155,Artee Fabrics & Home,"5478 W Broad St, Richmond, VA 23230",37.588774,-77.4996147,Home Decor & Art Supply Store,Home Decor & Art Supplies,West End
+MER_156,Project1,"2012 Staples Mill Rd, Richmond, VA 23230",37.5849849,-77.4931905,Home Decor & Art Supply Store,Home Decor & Art Supplies,West End
+MER_157,Stories Comics,"9040 W Broad St, Richmond, VA 23294",37.6376776,-77.5485186,Comic Book Store,Literature,West End
+MER_158,The Shop at 5807,"5807 Patterson Ave, Richmond, VA 23226",37.5794474,-77.5151365,Variety Boutique Store,"Boutique, Decor, Clothing and Jewelry",West End
+MER_159,The Container Store,"11732 W Broad St Ste PP1B, Richmond, VA 23233",37.6536924,-77.6150483,Home Goods,Home Goods,West End
+MER_160,World Market,"11198 W Broad St, Glen Allen, VA 23060",37.6505109,-77.6003594,Home Decor & Art Supply Store,Home Goods,West End
+MER_161,Nellie George,"5714 Grove Ave, Richmond, VA 23226",37.5732857,-77.5179378,Women's Clothing,Apparel,West End
+MER_162,Wardrobe,"401 Libbie Ave, Richmond, VA 23226",37.5746368,-77.5177363,Women's Clothing,Apparel,West End
+MER_163,Roan,"3142 W Cary St, Richmond, VA 23221",37.5538716,-77.4815946,Women's Clothing,Apparel,West End
+MER_164,Everything But Water,"11800 W Broad St Ste 1242, Richmond VA 23233",37.6559808,-77.6211245,Women's Clothing,Apparel,West End
+MER_165,Relics to Rhinestones,"5726A Patterson Ave, Richmond, VA 23226",37.5793225,-77.5136597,"Women's Clothing, Home Decor",Boutique & Apparel,West End
+MER_166,CCH Collection,"5718 Grove Ave, Richmond, VA 23226",37.5733048,-77.518117,"Women's Clothing, Home Decor",Apparel,West End
+MER_167,Frances Kahn,"6229 River Rd, Richmond, VA 23229",37.5684325,-77.5377819,Women's Clothing,Apparel,West End
+MER_168,Thistles on Libbie,"411 Libbie Ave Ste 1, Richmond, VA 23226",37.5751175,-77.5175525,Accessories & Jewelry,Accessories,West End
+MER_169,trend,"5021 Huguenot Rd, Richmond, VA 23229",37.5672787,-77.5379138,Women's Clothing,Apparel,West End
+MER_170,On U Jewelry,"5707 Grove Ave, Richmond, VA 23226",37.5727327,-77.5175571,Jewelry,Jewelry & Accessories,West End
+MER_171,Versona,"11800 W Broad St, Richmond, VA 23233",37.6559808,-77.6211245,Women's Clothing,Apparel,West End
+MER_172,Irresistibles,"5814 Grove Ave, Richmod, VA 23226",37.5731989,-77.5192006,Women's Clothing,Apparel,West End
+MER_173,Verve Home Furnishings,"4903 W Leigh St, Richmond, VA 23230",37.585915,-77.494601,Home Decor & Accessories,Home Goods,West End
+MER_174,Alton Lane,"304 Libbie Ave, Richmond, VA 23226",37.5734949,-77.5187442,Men's Clothing,Apparel,West End
+MER_175,310 Rosemont,"9200 Stony Point Pkwy Ste 200, Richmond, VA 23235",37.5508893,-77.5730132,Clothing,Apparel,West End
+MER_176,Clara B,"5716 Patterson Ave, Richmond, VA 23226",37.5790202,-77.5133237,Children's Clothing,Apparel,West End
+MER_177,Strange's,"12111 W Broad St, Richmond, VA 23223",37.6575445,-77.6346802,Gardening Store,Garden Supplies,West End
+MER_178,Audio Exchange,"6007 W Broad St, Richmond, VA 23230",37.5929417,-77.5079406,Electronics Store,Electronics,West End
+MER_179,Lush Cosmetics,"11800 W Broad St Ste 2420, Richmond, VA 23233",37.656082,-77.6203342,Beauty and Cosmetics Store,Beauty Supply,West End
+MER_180,1Z 2Z 3Z,"401 Libbie Ave Ste 4, Richmond, VA 23226",37.5746368,-77.5177363,Baby Store,Baby Products,West End
+MER_181,Lewis Supply Co,"101 E 7th St, Richmond VA 23224",37.5222979,-77.4393134,Hardware,Hardware,South Richmond
+MER_182,Richelieu Richmond,"2720 Cofer Rd, Richmond VA 23224",37.494423,-77.4498493,Hardware,Hardware,South Richmond
+MER_183,Lett Hardware,"2210 Broad Rock Blvd, Richmond VA 23224",37.4867252,-77.4763367,Hardware,Hardware,South Richmond
+MER_184,Harbor Freight Tools,"6500 Hull St, Richmond VA 23224",37.4804798,-77.5121596,Hardware,Hardware,South Richmond
+MER_185,Pleasants Hardware,"5140 Jefferson Davis Hwy, Richmond VA 23224",37.4610055,-77.4424067,Hardware,Hardware,South Richmond
+MER_186,Ben Franklin Crafts,"9744 Midlothian Tpke, Richmond, VA 23235",37.5042952,-77.5733787,Art Supply Store,Art and Art Supplies,South Richmond
+MER_187,Nest Antiques Arts & Gifts,"3404 Semmes Ave, Richmond, VA 23225",37.5156927,-77.4693681,Boutique Store,Antique & Gift Shops,South Richmond
+MER_188,Fralin Art & Frame,"3412 Semmes Ave, Richmond, VA 23225",37.5156281,-77.4696258,Boutique Store,Art and Art Supplies,South Richmond
+MER_189,Its Fashion Metro,"449 E Belt Blvd, Richmond, VA 23224",37.504865,-77.4737364,Clothing,Apparel,South Richmond
+MER_190,Sterling Boutique,"2622 Buford Rd, Richmond, VA 23235",37.5344528,-77.5622169,Women's Clothing & Accessories,Apparel & Accessories,South Richmond
+MER_191,Cato Fashions,"271 Wadsworth Dr, Richmond, VA 23236",37.4928052,-77.5581382,Clothing,Apparel,South Richmond
+MER_192,Virginia Automotive Parts,"227 E Belt Blvd, Richmond, VA 23224",37.5058226,-77.4798096,Automotive,Automotive Supplies,South Richmond
+MER_193,Randalls Electronics,"5700 Jefferson Davis Hwy Richmond, VA 23234",37.4520245,-77.4416143,Electronics,Electronics,South Richmond
+MER_194,Keith Fabry,"1420 Commerce Rd, Richmond, VA 23224",37.509026,-77.4304392,Office and Printing,Office Supplies,South Richmond
